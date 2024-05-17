@@ -7,3 +7,6 @@
 - Chart the relevance evolution of the different characters
 
 - Try to automate as much as possible, do not do things for each book in separate cells and then manually merge, etc.
+
+
+PD: Since we have the following messages 'Local cdn resources have problems on chrome/safari when used in jupyter-notebook.' after executing the .html networks graph on GOT.ipynb, we uploaded the GOT-GitHub.ipynb using .png instead, just for visualization purposes.
